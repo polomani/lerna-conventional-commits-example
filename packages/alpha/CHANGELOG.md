@@ -6,3 +6,11 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 # 1.0.0 (2019-10-08)
 
 **Note:** Version bump only for package @my-scope/alpha
+
+
+
+
+
+# 1.0.0 (2019-10-08)
+
+**Note:** Version bump only for package @my-scope/alpha
