@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.0.1"></a>
+## [2.0.1](https://github.com/polomani/lerna-conventional-commits-example/compare/@my-scope/alpha@2.0.0...@my-scope/alpha@2.0.1) (2019-10-08)
+
+
+### Bug Fixes
+
+* alpha patch ([8a00abb](https://github.com/polomani/lerna-conventional-commits-example/commit/8a00abb))
+
+
+
+
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 # [2.0.0](https://github.com/polomani/lerna-conventional-commits-example/compare/@my-scope/alpha@1.2.0...@my-scope/alpha@2.0.0) (2019-10-08)
 
 
