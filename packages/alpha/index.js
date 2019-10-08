@@ -1,1 +1,3 @@
-module.exports = 'alpa';
+const name = 'alpha'
+
+module.exports = name;
