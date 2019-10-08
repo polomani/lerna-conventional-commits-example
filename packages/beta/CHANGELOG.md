@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/polomani/lerna-conventional-commits-example/compare/@my-scope/beta@1.2.0...@my-scope/beta@1.2.1) (2019-10-08)
+
+
+### Bug Fixes
+
+* beta ([78b19eb](https://github.com/polomani/lerna-conventional-commits-example/commit/78b19eb))
+
+
+
+
+
 # [1.2.0](https://github.com/polomani/lerna-conventional-commits-example/compare/@my-scope/beta@1.1.0...@my-scope/beta@1.2.0) (2019-10-08)
 
 

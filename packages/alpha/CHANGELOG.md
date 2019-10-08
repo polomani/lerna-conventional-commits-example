@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/polomani/lerna-conventional-commits-example/compare/@my-scope/alpha@1.1.0...@my-scope/alpha@1.2.0) (2019-10-08)
+
+
+### Features
+
+* alpha BREAKING CHANGE: something ([2f7853d](https://github.com/polomani/lerna-conventional-commits-example/commit/2f7853d))
+
+
+
+
+
 # [1.1.0](https://github.com/polomani/lerna-conventional-commits-example/compare/@my-scope/alpha@1.0.0...@my-scope/alpha@1.1.0) (2019-10-08)
 
 
